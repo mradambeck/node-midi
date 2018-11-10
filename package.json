@@ -1,0 +1,24 @@
+{
+  "name": "node-midi-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mradambeck/node-midi.git"
+  },
+  "author": "Adam Beck <abeck@housecanary.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mradambeck/node-midi/issues"
+  },
+  "homepage": "https://github.com/mradambeck/node-midi#readme",
+  "dependencies": {
+    "easymidi": "^1.0.1",
+    "midi": "^0.9.5"
+  }
+}
